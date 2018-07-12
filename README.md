@@ -10,3 +10,9 @@
 > 最新ブラウザ対応で気持ちよくコーディング!
 
 https://nextpublishing.jp/book/9880.html
+
+## 誤表記を発見した方へ
+
+誤表記を発見されましたら、下記のURLからご連絡いただけますと幸いです。
+
+https://docs.google.com/forms/d/e/1FAIpQLSecBSQFwRcZTJZJZ9XaenmFJVszxcxaspGN00GBUddMPAHjAA/viewform
